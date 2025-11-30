@@ -15,8 +15,8 @@ This repository contains the data and code produced during my work as Data Analy
 
 ## Pipeline Overview
 1. **Scraping:** Collect startup and investor data from public sources.
-2. **Enrichment:** Clean fields, normalize sectors, map cities to states.
-3. **Validation:** Fix missing or inconsistent entries and remove duplicates.
+2. **Enrichment:** Clean fields, Fix missing or inconsistent entries.
+3. **Validation:** Cross checking and confirming validity of collected data.
 
 ## Notes
 - No private or confidential information is included.
