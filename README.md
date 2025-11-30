@@ -8,9 +8,8 @@ This repository contains the data and code produced during my work as Data Analy
   - **processed/** – Cleaned and standardized datasets
   - **state_wise/** – One processed file per Indian state
 - **src/**
-  - **scrape.py** – Scrapes public data sources
-  - **enrich.py** – Cleans data, adds state mapping and classifications
-  - **validate.py** – Performs schema, duplicate, and consistency checks
+  - **scrapper.py** – Scrapes public data sources
+  - **data_cleaning.py** – Cleans data, adds state mapping and classifications
 - **prompts/**
   - AI prompts used during scraping, enrichment, and validation
 
